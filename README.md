@@ -1,5 +1,11 @@
-### Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **Muhammad Fauzan Fachruzi Rauf**.\
+
+Saya seorang **Mahasiswa** di [UNIMED](https://www.unimed.ac.id/).\
+
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fauzan-rauf-859293249)ku ya.
 <!--
 **MuhammadFauzanFachruziRauf/MuhammadFauzanFachruziRauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
