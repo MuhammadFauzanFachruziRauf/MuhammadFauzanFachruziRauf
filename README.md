@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Muhammad Fauzan Fachruzi Rauf**.\
+Perkenalkan nama saya **Muhammad Fauzan Fachruzi Rauf**.
 
-Saya seorang **Mahasiswa** di [UNIMED](https://www.unimed.ac.id/).\
+Saya seorang **Mahasiswa** di [UNIMED](https://www.unimed.ac.id/).
 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fauzan-rauf-859293249)ku ya.
